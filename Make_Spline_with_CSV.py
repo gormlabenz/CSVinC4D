@@ -14,7 +14,7 @@ def add_spline(row_count, points):
     c4d.EventAdd()
 
 def main():
-    path = "/Users/apple/Documents/Cinenma/Medium/Cinema/data.csv"
+    path = #insert here data.csv
     points = []
     counter = 0
     doc.StartUndo()
