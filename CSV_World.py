@@ -87,7 +87,7 @@ def add_lathe(namelathe, latpos, latheparent):
 def main():
 
 
-    path2 = "/Users/apple/Documents/HTW/Gloomy Prospects/data/Länder LATLONG/Countries_lat_long_4.csv"
+    path2 = #insert here data 2
     doc.StartUndo()
 
 
@@ -129,7 +129,7 @@ def main():
     print vec
     print pointcounter
 
-    path = "/Users/apple/Documents/HTW/Gloomy Prospects/data/annual-co-emissions-by-region_5_länder_aussortiert.csv"
+    path = #insert here CountriesLatLong
 
     doc.StartUndo()
 
